@@ -3,7 +3,7 @@
 - 👀  I am driven by a deep passion for technologies that integrate electronics, AI power and software to create intelligent and innovative solutions in any filed that you can imagine. 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me:
-      Email: maaoui.benamor@gmail.com
-      LinkedIn: linkedin.com/in/maaoui-ben-amor 
+- Email: maaoui.benamor@gmail.com
+- LinkedIn: linkedin.com/in/maaoui-ben-amor 
 
 
